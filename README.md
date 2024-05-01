@@ -28,5 +28,4 @@ Create an engaging and visually stunning email newsletter for SmartScape Innovat
 </ul>
 The overall objective is to create a newsletter that not only informs customers about SmartScape's innovations but also resonates with the brand's modern, sophisticated, and user-friendly identity. Maintain consistency in the use of colors, fonts, and imagery to reinforce the SmartScape brand throughout the newsletter.
 <h2 style="font-size: 18px">END RESULTS</h2>
-<h3 style="font-size: 16px" align="center">Full View</h3>
 <div align="center"><img src="SmartScape-Full-View.jpg" width="50%"></div>
